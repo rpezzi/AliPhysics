@@ -1,0 +1,3 @@
+[submodule "AliPhysicsData"]
+	path = AliPhysicsData
+	url = https://gitlab.cern.ch/alisw/AliPhysicsData
